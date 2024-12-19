@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Sultana', serif;
+
+
+
+}
+.carousel .slider-wrapper {
+    direction: ltr; /* Override rtl if necessary for carousel layout */
+    
+  }
